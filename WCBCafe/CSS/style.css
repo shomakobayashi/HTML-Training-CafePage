@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/* 共通 */
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "yu Gothic Medium"
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100;
+}
+
+/* Header */
+.logo {
+  width: 210px;
+  margin-top: 14px;
+}
